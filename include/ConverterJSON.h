@@ -2,7 +2,7 @@
 
 #include <vector>
 
-#include "../include/SearchServer.h"
+#include "SearchServer.h"
 
 // EXCEPTIONS
 class ResourseFileIncoorect : public std::exception {

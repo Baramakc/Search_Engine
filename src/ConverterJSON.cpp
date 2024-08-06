@@ -5,7 +5,7 @@
 
 #include "nlohmann/json.hpp"
 #include "../include/ConverterJSON.h"
-
+// "../JSON_files/resources/file001.txt"
 
 std::vector<std::string> ConverterJSON::GetTextDocuments()
 {
